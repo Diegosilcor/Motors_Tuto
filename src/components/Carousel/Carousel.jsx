@@ -8,7 +8,7 @@ function CarouselIndex() {
       <Carousel.Item>
         <img
           className="imagen-1"
-          src="imagenes/aa2.jpg"
+          src="https://acortar.link/qvbsMP"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -18,7 +18,7 @@ function CarouselIndex() {
       <Carousel.Item>
         <img
           className="imagen-2"
-          src="imagenes/Mecanica.jpg"
+          src="https://acortar.link/qwf2OM"
           alt="Second slide"
         />
         
@@ -29,7 +29,7 @@ function CarouselIndex() {
       <Carousel.Item>
         <img
           className="imagen-3"
-          src="imagenes/decontaminacion.jpg"
+          src="https://acortar.link/i2cUzG"
           alt="Third slide"
         />
 
