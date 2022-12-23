@@ -12,7 +12,7 @@ function CarouselIndex() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>Revision sistemas de aire acondicionado de ultima generacion</h3>
+          <h3>Revision de neumaticos y balanceo de ultima generacion</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
