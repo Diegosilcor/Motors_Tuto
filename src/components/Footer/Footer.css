@@ -1,0 +1,26 @@
+.footer {
+    height: 100px;
+    background-color: #004e78;
+  
+  }
+  
+  .list{
+    justify-content: space-between;
+    text-align: center;
+    height: 50px;
+    font-size: large;
+    display: flex;
+    flex: 1;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    font-family: Roboto, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    align-content: center;
+    
+  }
